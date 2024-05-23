@@ -15,4 +15,4 @@ Ce projet est une application iOS développée en Swift par une équipe de quatr
 
 Pour voir l'application en action, regardez la vidéo ci-dessous :
 
-[![Vidéo de Démonstration](http://img.youtube.com/vi/https://youtube.com/shorts/x4IMt01OUfs/0.jpg)](https://youtube.com/shorts/x4IMt01OUfs)
+[![Vidéo de Démonstration](http://img.youtube.com/vi/x4IMt01OUfs/0.jpg)](https://youtube.com/shorts/x4IMt01OUfs)
